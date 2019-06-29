@@ -13,6 +13,8 @@ github.com/google/go-cmp v0.2.0/go.mod h1:oXzfMopK8JAjlY9xF4vHSVASa0yLyX7SntLO5a
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
 github.com/miekg/dns v1.1.4 h1:rCMZsU2ScVSYcAsOXgmC6+AKOK+6pmQTOcw03nfwYV0=
 github.com/miekg/dns v1.1.4/go.mod h1:W1PPwlIAgtquWBMBEV9nkV9Cazfe8ScdGz/Lj7v3Nrg=
+github.com/vcptr/go-doh-client v0.0.0-20190823070318-2a4ec92f5f4e h1:DhE42Wf1fl3JNBah5nc1K4qfG5w6idn6r+vU+OB3jtA=
+github.com/vcptr/go-doh-client v0.0.0-20190823070318-2a4ec92f5f4e/go.mod h1:VggbCiYvdzSy5m0OoZAcixGA5guGEUa4W7oSKpzpVrY=
 go.starlark.net v0.0.0-20190225160109-1174b2613e82 h1:vAHCTDREx7LqPeWqNeTvCKWcURJztP3wBKnF2Q0sW7Q=
 go.starlark.net v0.0.0-20190225160109-1174b2613e82/go.mod h1:c1/X6cHgvdXj6pUlmWKMkuqRnW4K8x2vwt6JAaaircg=
 golang.org/x/crypto v0.0.0-20190208162236-193df9c0f06f h1:ETU2VEl7TnT5bl7IvuKEzTDpplg5wzGYsOCAPhdoEIg=

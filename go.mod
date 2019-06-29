@@ -5,6 +5,7 @@ require (
 	github.com/golang/protobuf v1.2.1-0.20190205222052-c823c79ea157
 	github.com/google/go-cmp v0.2.0
 	github.com/miekg/dns v1.1.4
+	github.com/vcptr/go-doh-client v0.0.0-20190823070318-2a4ec92f5f4e
 	go.starlark.net v0.0.0-20190225160109-1174b2613e82
 	golang.org/x/crypto v0.0.0-20190208162236-193df9c0f06f
 	golang.org/x/net v0.0.0-20190206173232-65e2d4e15006
